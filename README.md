@@ -7,4 +7,5 @@ A Python program that lets you view a graph of a stock.
 - Allows for viewing of any stock.
 - Change settings (e.g change the period of time used for the graph, graph style, graph type)
 
-Uses yfinance and mplfinance libraries. To use input "pip install yfinance mplfinance" into command prompt
+Uses yfinance and mplfinance libraries. 
+To download these, input "pip install yfinance mplfinance" into command prompt
